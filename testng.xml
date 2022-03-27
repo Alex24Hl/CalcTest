@@ -1,0 +1,27 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Calc Test">
+
+    <test name="Sum">
+        <classes>
+            <class name="com.stc.tests.sum.SumTest" />
+        </classes>
+    </test>
+
+    <test name="Division">
+        <classes>
+                <class name="com.stc.tests.division.DivisionTest" />
+        </classes>
+    </test>
+
+    <test name="Multiplication">
+        <classes>
+            <class name="com.stc.tests.multiplication.MultiplicationTest" />
+        </classes>
+    </test>
+
+    <test name="Difference">
+        <classes>
+            <class name="com.stc.tests.difference.DifferenceTest" />
+        </classes>
+    </test>
+</suite>
