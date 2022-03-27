@@ -4,7 +4,7 @@
 
 В архиве с материалами лекции находится папка CalcTest. Это Maven проект, написанный на языке Java. По пути ../CalcTest/src/main/java/calc/ находится класс Calculator. У него есть четыре метода вычисления:
 
-- - *division(String a, String b)**. Принимает на вход два числа "a" и "b" типа String. Возвращает результат их деления типа Double.
+- - *division(String a, String b)*. Принимает на вход два числа "a" и "b" типа String. Возвращает результат их деления типа Double.
 - - **sum(String a, String b)**. Принимает на вход два числа "a" и "b" типа String. Возвращает результат их суммы типа Double.
 - - **difference(String a, String b)**. Принимает на вход два числа "a" и "b" типа String. Возвращает результат их разности типа Double.
 - - **multiplication(String a, String b)**. Принимает на вход два числа "a" и "b" типа String. Возвращает результат их перемножения типа Double.
